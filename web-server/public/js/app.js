@@ -1,0 +1,1 @@
+console.log('Client side is printing javascript messages.');
